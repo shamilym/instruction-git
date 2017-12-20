@@ -1,0 +1,10 @@
+1. git clone https://github.com/shamilym/instruction-git.git
+
+1.1 cd instruction-git
+
+2. git config user.name shamilym
+3. git config user.email shamilym@code.edu.az
+4. git status
+5. git add -A
+6. git commit -m "html tag-leri"
+7. git push origin master
